@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Quantico', sans-serif;
+}
+
+.container {
+    max-width: 1171px;
+    margin: 0 auto;
+}
+
+header {
+    height: 1440px;
+    background: url('../img/black-bmw-m2.jpg') no-repeat;
+}
+
+nav {
+    display: flex;
+    height: 88px;
+    justify-content: space-between;
+
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    width: 470px;
+    justify-content: space-between;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(203, 29, 29);
+}
+
+.logo h1 {
+    color: rgb(203, 29, 29);
+    font-size: 36px;
+}
+
+.vision {
+    color: rgb(255, 162, 0);
+    margin-top:305px;
+}
+
+.vision h2 {
+    font-size: 48px;
+    margin-right:647px;
+    margin-left:647px;
+}
+
+.vision p {
+    font-size:18px;
+    text-align: center;
+    color:  rgb(149, 1, 1);
+}
+
+section {
+    height: 750px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 86px;
+}
+
+.product h2 {
+    font-size: 30px;
+    color: rgb(203, 29, 29);
+}
+
+.product1 {
+  width: 300px;
+  position: absolute;
+  top: 670px;
+  left: 120px;
+  font-size: 15px;
+  color: rgb(203, 29, 29);
+  text-align: center;
+}
+
+.product2 {
+    width: 300px;
+    position: absolute;
+    top: 670px;
+    left: 430px;
+    font-size: 15px;
+    color: rgb(203, 29, 29);
+    text-align: center;
+}
+
+.product3 {
+    width: 300px;
+    position: absolute;
+    top: 670px;
+    left: 735px;
+    font-size: 15px;
+    color: rgb(203, 29, 29);
+    text-align: center;
+}
+
+.product4 {
+    width: 300px;
+    position: absolute;
+    top: 670px;
+    left: 1040px;
+    font-size: 15px;
+    color: rgb(203, 29, 29);
+    text-align: center;
+}
+
+.product5 {
+    width: 300px;
+    position: absolute;
+    top: 980px;
+    left: 120px;
+    font-size: 15px;
+    color: rgb(203, 29, 29);
+    text-align: center;
+}
+
+.product6 {
+    width: 300px;
+    position: absolute;
+    top: 980px;
+    left: 430px;
+    font-size: 15px;
+    color: rgb(203, 29, 29);
+    text-align: center;
+}
+
+.product7 {
+    width: 300px;
+    position: absolute;
+    top: 980px;
+    left: 735px;
+    font-size: 15px;
+    color: rgb(203, 29, 29);
+    text-align: center;
+}
+
+.product8 {
+    width: 300px;
+    position: absolute;
+    top: 980px;
+    left: 1040px;
+    font-size: 15px;
+    color: rgb(203, 29, 29);
+    text-align: center;
+}
+
+.producthigh {
+    height: 450px;
+    background-color: rgba(61, 0 , 0);
+    margin-top: 0px;
+}
+
+.producthigh h2 {
+    font-size: 30px;
+    color: rgb(255, 162, 0);
+}
+
+.highlight1 {
+    width: 300px;
+    position: absolute;
+    top: 1440px;
+    left: 135px;
+    font-size: 15px;
+    color: rgb(255, 162, 0);
+    text-align: center;
+}
+
+.highlight2 {
+    width: 300px;
+    position: absolute;
+    top: 1440px;
+    left: 550px;
+    font-size: 15px;
+    color: rgb(255, 162, 0);
+    text-align: center;
+}
+
+.highlight3 {
+    width: 300px;
+    position: absolute;
+    top: 1440px;
+    left: 965px;
+    font-size: 15px;
+    color: rgb(255, 162, 0);
+    text-align: center;
+}
+
+.contact {
+    height: 300px;
+    background-color: rgb(149, 1, 1);
+    margin-top: 0px;
+}
+
+.contact h1 {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.contact h2 {
+    font-size:18px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contact p {
+    font: size 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 50px;
+}
